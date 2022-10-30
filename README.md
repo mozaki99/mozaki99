@@ -7,3 +7,5 @@
 
 - <b>Vulnerability Scanning and Remediation (Nessus Essentials)</b>
   - [Windows 10 Host Vulnerability Scan](https://github.com/mozaki99/VulnerabilityScanner)
+
+- <b>Azure Sentinel Live Attack Map (SIEM) </b>
