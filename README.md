@@ -3,8 +3,9 @@
    
 -  <b>Active Directory Home Lab (Oracle VirtualBox)</b>
    - [Active Drectory Lab](https://github.com/mozaki99/Active-Directory-Home-Lab)
+
 -  <b>Python File Handling Automation</b>
-   - [Python File Handling Automation](https://github.com/mozaki99/Python-Log-Parsing-Automation)
+   - [](https://github.com/mozaki99/Python-Log-Parsing-Automation)
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
