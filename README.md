@@ -5,7 +5,7 @@
    - [Active Drectory Lab](https://github.com/mozaki99/Active-Directory-Home-Lab)
 
 -  <b>Python File Handling Automation</b>
-   - [](https://github.com/mozaki99/Python-Log-Parsing-Automation)
+   - [Automation using Python](https://github.com/mozaki99/Python-Log-Parsing-Automation)
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
