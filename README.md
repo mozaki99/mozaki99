@@ -13,4 +13,4 @@
   - [Windows 10 Host Vulnerability Scan](https://github.com/mozaki99/VulnerabilityScanner)
 
 - <b>Azure Sentinel Live Attack Map (SIEM) </b>
-  - [Azure Sentinel Lab with Geolocation Data API](https://github.com/mozaki99/Azure-Sentinel-Lab)
+  - In progress..
