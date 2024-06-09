@@ -7,6 +7,9 @@
 -  <b>Python File Handling Automation</b>
    - [Automation using Python](https://github.com/mozaki99/Python-Log-Parsing-Automation)
 
+-  <b>SLA Ticket Resolution with Jira</b>
+   - [Jira Ticket Handeling]()
+
 <h2>👨‍💻Cyber Security Projects:</h2>
 
 - <b>Vulnerability Scanning and Remediation (Nessus Essentials)</b>
