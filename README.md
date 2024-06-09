@@ -8,7 +8,7 @@
    - [Automation using Python](https://github.com/mozaki99/Python-Log-Parsing-Automation)
 
 -  <b>SLA Ticket Resolution with Jira</b>
-   - [Jira Ticket Handeling]()
+   - [Jira Ticket Handeling](https://github.com/mozaki99/SLA-Ticket-Handling-with-Jira)
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
